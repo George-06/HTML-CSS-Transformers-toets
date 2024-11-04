@@ -38,6 +38,7 @@ th{
 }
 p{
     margin-left: 750px;
+    color: rgb(243, 214, 201);
 }
 tr:nth-child(even){
     background-color: rgb(234, 209, 87);
